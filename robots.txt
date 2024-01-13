@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodylawasuge.github.io/sitemap.xml
